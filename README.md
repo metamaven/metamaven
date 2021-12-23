@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @metamaven
 - 👀 I’m interested in DAOs
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on ETH projects
+- 💞️ I’m looking to collaborate on opensource ethereum projects
 - 📫 How to reach me web3.surfer@protonmail.ch
 
 <!---
